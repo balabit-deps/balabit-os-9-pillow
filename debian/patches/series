@@ -3,3 +3,4 @@ generate-webp-file
 js-script-file.diff
 no-sphinx-removed-in.diff
 no-sphinx-opengraph.diff
+CVE-2022-45198.patch

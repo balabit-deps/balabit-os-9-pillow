@@ -1,3 +1,12 @@
+pillow (9.0.1-1ubuntu0.1) jammy-security; urgency=medium
+
+  * SECURITY UPDATE: gif decompression bomb issue
+    - debian/patches/CVE-2022-45198.patch: Added GIF decompression bomb check
+      in src/PIL/GifImagePlugin.py.
+    - CVE-2022-45198
+
+ -- Fabian Toepfer <fabian.toepfer@canonical.com>  Mon, 12 Dec 2022 20:51:28 +0100
+
 pillow (9.0.1-1build1) jammy; urgency=medium
 
   * No-change rebuild with Python 3.10 only.

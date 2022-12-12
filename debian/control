@@ -1,7 +1,8 @@
 Source: pillow
 Section: python
 Priority: optional
-Maintainer: Matthias Klose <doko@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Matthias Klose <doko@debian.org>
 Build-Depends: debhelper (>= 11), tk-dev, dpkg-dev (>= 1.16.1~),
   dh-python,
   python3-all-dev, python3-setuptools,
