@@ -4,3 +4,7 @@ js-script-file.diff
 no-sphinx-removed-in.diff
 no-sphinx-opengraph.diff
 CVE-2022-45198.patch
+CVE-2023-44271.patch
+CVE-2023-50447-1.patch
+CVE-2023-50447-2.patch
+CVE-2023-50447-3.patch
